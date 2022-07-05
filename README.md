@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HarithaPathipatti
+- 👋 Hi, I’m @Haritha
 - 👀 I’m interested in ...Appian
 - 🌱 I’m currently learning ...Appian BPM
 - 💞️ I’m looking to collaborate on ...
